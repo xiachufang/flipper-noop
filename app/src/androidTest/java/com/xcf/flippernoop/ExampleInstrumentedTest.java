@@ -1,4 +1,4 @@
-package com.petterp.flippernoop;
+package com.xcf.flippernoop;
 
 import android.content.Context;
 
